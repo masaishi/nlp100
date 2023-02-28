@@ -1,0 +1,1 @@
+print([len(word) for word in "Now I need a drink, alcoholic of course, after the heavy lectures involving quantum mechanics".replace(",", "").split(" ")])

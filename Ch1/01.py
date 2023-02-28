@@ -1,0 +1,1 @@
+print("".join([c for i, c in enumerate("schooled") if i % 2 ==1]))
